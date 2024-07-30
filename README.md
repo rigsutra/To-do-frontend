@@ -65,14 +65,14 @@ The application is designed with the following components:
    cd todo-list-app
 
 2. **Install Dependencies**
-Run the following command to install the required packages:
-bash
-npm install
+- Run the following command to install the required packages:
+  ```bash
+  npm install
 
 3. **Run the Application**
-Start the development server with the following command:
-bash
-npm start
+- Start the development server with the following command:
+``` bash
+   npm start
 
-This will open the application in your default web browser at http://localhost:3000.
+4. **This will open the application in your default web browser at http://localhost:3000.**
 
