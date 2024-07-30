@@ -72,5 +72,6 @@ The application is designed with the following components:
 3. **Run the Application**
 - Start the development server with the following command:
 ``` bash
-    npm start
+npm start
+
 
