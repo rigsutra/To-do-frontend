@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "title": "Learn React",
+    "description": "Study React documentation and build projects.",
+    "completed": false,
+    "updatedAt": "2024-07-29T10:00:00Z"
+  },
+  {
+    "id": 2,
+    "title": "Build a Todo App",
+    "description": "Create a todo app using React.",
+    "completed": false,
+    "updatedAt": "2024-07-29T11:00:00Z"
+  }
+]
