@@ -72,7 +72,5 @@ The application is designed with the following components:
 3. **Run the Application**
 - Start the development server with the following command:
 ``` bash
-   npm start
-
-4. **This will open the application in your default web browser at http://localhost:3000.**
+    npm start
 
